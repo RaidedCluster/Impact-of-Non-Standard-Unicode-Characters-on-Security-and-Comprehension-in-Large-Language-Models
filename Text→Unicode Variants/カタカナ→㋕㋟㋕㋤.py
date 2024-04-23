@@ -9,7 +9,7 @@ def katakana_to_enclosed(katakana_str):
         'マ': '㋮', 'ミ': '㋯', 'ム': '㋰', 'メ': '㋱', 'モ': '㋲',
         'ヤ': '㋳', 'ユ': '㋴', 'ヨ': '㋵', 'ラ': '㋶', 'リ': '㋷',
         'ル': '㋸', 'レ': '㋹', 'ロ': '㋺', 'ワ': '㋻', 'ヰ': '㋼',
-        'ヱ': '㋽', 'ヲ': '㋾', 'ン': 'ン',
+        'ヱ': '㋽', 'ヲ': '㋾',
     }
     return ''.join(katakana_to_enclosed_map.get(char, char) for char in katakana_str)
 
