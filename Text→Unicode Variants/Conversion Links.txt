@@ -1,1 +1,7 @@
+You can find many character-sets (official & unofficial) from the following links:
+https://yaytext.com/
+https://lingojam.com/
+I'm sure there's more, just a google search away.
 
+Half-width: 
+https://dencode.com/en/string/character-width
