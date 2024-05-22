@@ -5,3 +5,6 @@ I'm sure there's more, just a google search away.
 
 Half-width: 
 https://dencode.com/en/string/character-width
+
+Japanese Braille:
+https://uhyo.github.io/tenji-web/
